@@ -21,6 +21,7 @@ body{font-family: 'Poppins', sans-serif;     background-color: rgba(255, 255, 25
 /* nav style end from here  */
 
 /* carousel product style  */
+
 .productImage{width: 100%; height: 455px;}
 .productImageBackground{background-color: rgba(255, 0, 0, 0.2) ; border-radius: 18px; padding: 20px; position: absolute;}
 .productTitle{font-size: 50px; color: black; margin-top: 50px; margin-left: 25px;}
